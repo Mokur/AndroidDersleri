@@ -1,0 +1,67 @@
+
+18.03.2019 Android Studio--SQLite Database
+
+-Metot ile SQLite Veritabaný çalýþmak
+-Harici SQLite dosyasý ile çalýþmak
+-Dahili SQLite Helper Class'ý ile çalýþmak
+
+
+SQLite hakkýnda bilgiler;
+
+-Cihazda verileri saklamak için kullanýlýr.
+
+-SQLite açýk kaynaklýdýr.
+-Platform baðýmsýzdýr.(Her iþletim sisteminde kullanýlabilir.),
+-Android OS'da dahili olarak bulunur.
+(Uygulama içerisine harici kütüphane yüklenmesi gerekmez)
+-C#, PHP, Python, Android dillerinde sorunsuz kullanýlabilir.
+-Eklenen veriler .db ya da, .sqlite dosyasý üzerine depolanýr.(Dahili database)
+
+-Kullanýcý etkileþimsiz(Çevrimdýþý çalýþan)
+
+
+--Rehber uygulamasý
+--Notlar Uygulamasý
+--Arama Kayýtlarý
+--SMS Kayýtlarý
+--Whatsapp Uygulamasý
+--Facebook vs.
+--Oyunlar
+
+
+
+/data/data/com.merveokur.ornek1/databases/
+uygulama paketi
+içerisinde hangi verileri sakladýðýný vs. görebiliyosun
+
+
+Yapabileceðimiz Uygulamalar
+
+-Günlük Uygulamasý
+-Not Defteri
+-Rehber Uygulamasý
+-Yemek Tarifleri
+-Rüya Tabirleri Uygulamasý
+-Milyoner uygulamasý
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
