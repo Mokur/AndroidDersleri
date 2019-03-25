@@ -1,0 +1,9 @@
+
+
+
+sql chipper --> data şifreleme
+
+apk pure --> uygulamayı indirmeye yarıyor
+database'i dolu göstermemek gerek, veriler çalınabilir
+sqlite database olduğundan dolayı, webden çekmelisin daha güvenilir olması için
+assets klasörüne gözden çıkarabileceğin databaseleri at
