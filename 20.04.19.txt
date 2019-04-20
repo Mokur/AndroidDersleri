@@ -1,0 +1,104 @@
+
+20.04.19 -- Android Programlama 2 ilk ders
+
++recycler view -- daha geliþmiþ bir yapý
++web servis ve kullanýcý etkileþimi ve geliþmiþ nesneler ile adaptörler en önemli konular
++firebase 
++fragmentler
++android ile internet,arkalan ve servis iþlemleri
++android ile harita ve konum
++uygulama yayýnlama
+
+
+CROSS PLATFORM
+
+React Native	->Javascript
+Vue Native  	->Javascript
+Flutter   	->Javascript
+Xamarin   	->C#
+Ionic     	->Javascript
+Apache Cordova  ->Javascript
+Unity Oyun Programlama
+
+
+ÝLERÝ SEVÝYE ANDROÝD GELÝÞTÝRÝCÝSÝNÝN BÝLMESÝ GEREKENLER
+
+- Web Teknolojileri
+  --Xml/Json Okur Yazarlýðý
+  --MySql,MsSql Database
+  --Web Yazýlým Dili(PHP,ASP.NET,JAVA EE)
+    ---SOAP, Restful Api(Rest Api)
+    ---HttpUrlConnection (Java Class)
+    ---Volley Kütüphanesi (Google)
+    ---Retrofit Kütüphanesi (Square)(en popüler kütüphanelerden)
+    ---OkHttp Kütüphanesi (Square)
+    ---Picasso,Glide Kütüphaneleri
+    ---NodeJS/Socket.io kütüphanesi(genelde chat uygulamalarý ya da çok oyunculu ve etkileþimli oyun yaparken iþe yarayacak þeylerin olduðu kütüphaneler)
+  --Firebase
+    ---Firebase Authentication
+    ---Firebase Database
+    ---Firebase Storage
+    ---Firebase Cloud Messaging
+
+
+----Ýleri Seviye Android Uygulama Geliþtirmek Ýçin Gerekli Kütüphaneler
+
+
+---Kütüphaneler
+
+-Retrofit
+-Glide
+-Moshi
+-Chuck
+-ThreeTen
+-Timber
+-Room
+-RxJava
+-Dagger
+-Android KTX
+
+---Mimariler
+
+-MVP
+-MVVM
+
+#Derste Anlattýklarýmýz
++Retrofit
++Volley
++GSON
++Socket.io
++Glide/Picasso
+
+
+DESTEKLEME KÜTÜPHANESÝ NESNELERÝ(Bunlara bak)
+
+-CoordinatorLayout
+-Tablayout
+-Floating Action Button
+-SnakeBar
+-AppBarLayout
+-ToolBar
+-Fragment
+-DrawerLayout
+-Button Navigation View
+-View Pager
+-CardView
+-Navigation View
+-SearchView
+
+
++Recycler View Yapýlarý (18 saat göreceðiz yaklaþýk 2 hafta)
+-Multiple View Holder
+-Horizontal Scroll
+-ListView
+-GridView
+-Staggered Grid
+-SearchView ile birlikte kullanýmý
+ 
+
+
+
+#baseadapter her satýr farklý tip olamaz fakat recyclerview her satýr farklý tip olabilir(viewholder yapýsý ile)
+
+
+#staggered grid view -- nesne boyutu kadar kullanmaya yarýyor
