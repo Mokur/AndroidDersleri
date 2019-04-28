@@ -1,0 +1,37 @@
+
+most popular android libraries <-- araþtýr öðren
+
+ÝLERÝ SEVÝYE ANDROÝD GELÝÞTÝRÝCÝSÝNÝN BÝLMESÝ GEREKENLER;
+
+- XML/JSON Parse
+- RecyclerView
+- Material Design
+- Arkaplan Ýþleri
+--Servis Sýnýfý Kullanýmý
+--Broadcast receiver yapýsý
+--sms gönderimi
+--gelen smsleri yakalama
+--Bildirimler(Notifivation)
+- Firebase, OneSignal
+- Git, Github
+- Restful API ()
+
+
+- Databinding(findviewbyid olmadan xml dosyasýndan direk baðlanýyor, baðlama yapýlmasýna gerek kalmýyor)
+- ButterKnife(api sürümlerinden dolayý databinding hata verebiliyor, bu yüzden butterknife tercih ediliyor)
+- Room
+- ReactiveX
+- MVP, MVVM, MVVM-C
+- RxJava, RxAndroid
+- Dagger
+
+
+
+
+Kütüphaneler;
+
+-Retrofit
+-GSON(JSON Serialize/Deserialize)
+-Volley
+-Picasso,Glide
+-NodeJS/Socketio (ya firebase ya da bu kütüphanelerle chat uygulamasý anlýk mesajlaþma uygulamalarý gibi yapýlabilir)
