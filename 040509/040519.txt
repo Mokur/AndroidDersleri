@@ -1,0 +1,69 @@
+
+####androidx nedir bi araþtýr
+
+
+
+METOTLAR --> POST, GET,
+
+<form method="get">
+
+</form>
+
+<form method="post">
+
+</form>
+
+
+#post --> url'de gözükmez bu yüzden güvenlidir, özellikle login iþlemlerinde bunu kullanýrýz.
+#diðerlerinde get tercih edilir
+
+
+#javascript: en poopüler dillerden biri
+sunucu tarafýnda çalýþýyor, tarayýcý tarfýnda çalýþabiliyor
+android uygulamasý da yazýlabiliyor js ile
+
+-Volley
+-Retrofit
+
+#bir web sayfasýnda istekte bulunmaya request,
+dönen cevaba response denir
+
+##sitemap xml -- arama motoruna en hýzý þekilde iletmeye yarar -- araþtýr
+
+##RSS feed -- bir web sayfasýndaki güncel makaleleri takip edebilmek için standart yapý
+(item tagleri descriptionlar image tagleri vs. parçalanarak içindeki deðerlere ulaþýlýr)
+
+#WEB SERVÝS FORMATLARI
+-XML(e-ticarette daha çok tercih edilir. eski bir teknoloji.)
+
+
+-JSON Javascript Object(.js, .json) (daha kýsa daha hýzlý. daha az dosya boyutu. Daha kolay anlaþýlýrlýk)
+
+{
+
+	"bloglar":[
+
+		    {
+			"title":"Yazýlým"
+		    }
+
+	]
+}
+
+
+
+#androidde hiçbir zaman database'e doðrudan baðlantý verilmez, güvenlik zaafiyetidir.
+
+
+## retrofit fdaha iyi, volley'e gerek bile kalmayabiliyor.  retrofiti iyi bil
+# compile implementation demek deðiþtirmek gerekiyor
+
+#Yüzde 90 JSON kullanýlýyor web haberleþme için, en çok tercih edilen JSON
+
+queue-kuyruk
+
+#volley: bir web sayfasýnýn kaynaðýný okyabilmek için kullanýlýr
+yoksa androidde doðrudan sayfanýn kaynaðýný okuyamýyoruz
+
+
+# RequestQueue queue;//kuyruða alýp, sýrasý geldðinde iþlemi yapmak için
