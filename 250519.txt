@@ -1,0 +1,24 @@
+
+
+onCreate, onViewCreated bunlar önemli 
+fragment yapýsý çönemli hýzlý, verileri geçici olarak ram'de tutuyor bu çok önemli
+
+fazla activity kullanmadan fragment yapýlarýyla yapýlan uygulamalar daha profesyonel ve hýzlý 
+
+fragment yapýsý ve recyclerView bu ikisi önemli
+
+FRAGMENT NEDÝR?
+
+-Tek bir activity sayfasý içerisinde birden fazla layout görüntüsü göstermek için kullanýlan sýnýftýr.
+
+AVANTAJLARI
+
+-Navigation Drawer nesnesi ile birlite kullanýlabilir.
+-Bottom Navigation View(Bar) nesnesi ile birlikte kullanýlabilir.
+-Tab Fragment (View pager nesnesiyle birlikte kullanýlabilir.)
+--FragmentStatePagerAdapter
+-FragmentTransaction nesnesinin kulanýmlarý
+
+-UI design kýsmýnda estetik görünümlü, tek bir activity'de birden fazla layout gösterilebilmesi
+-UX design konusunda ise son kullanýcýyý birden fazla sayfaya dolandýrmadan en pratik, hýzlý þekilde sonuç alabilmesini saðlamaktýr.
+-Bir sürü activity açmadýðýmýz için activity üretme maliyetini düþürerek uygulamanýn daha hýzlý çalýþmasý saðlanabilir (ram bellekte gereksiz er tüketiminin önüne geçer)
